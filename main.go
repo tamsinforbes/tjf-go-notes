@@ -8,6 +8,6 @@ import (
 func main() {
 
 	fmt.Println("Yo!")
-	
 
+	fmt.Println(emoji_math.emoji_add('a', 'b'))
 }
