@@ -9,5 +9,5 @@ func main() {
 
 	fmt.Println("Yo!")
 
-	fmt.Println(emoji_math.emoji_add('a', 'b'))
+	fmt.Printf("%c + %c = %c\n", 'a', 'b', emoji_math.emoji_add('a', 'b'))
 }
