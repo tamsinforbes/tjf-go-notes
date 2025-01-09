@@ -1,6 +1,6 @@
-package emoji_add
+package emoji_math
 
-func add_emoji(x, y rune) (z rune) {
+func emoji_add(x, y rune) (z rune) {
 	z = x + y
 	return
 }
